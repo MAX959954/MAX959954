@@ -6,7 +6,7 @@
 [![Djinni](https://img.shields.io/badge/Djinni-6C5CE7?style=for-the-badge&logoColor=white)](https://djinni.co/q/9bf7dd2f57/)
 
 ### 🛠️ Tech Stack:
-[![My Skills](https://skillicons.dev/icons?cpp,c,cmake,docker,postgres,mysql,redis,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cmake,docker,postgres,mysql,redis,git,github,figma)](https://skillicons.dev)
 
 ### 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=MAX959954&theme=dark&hide_border=true)
